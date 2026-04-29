@@ -1,0 +1,14 @@
+---
+title: "Learning Object-Oriented Programming"
+---
+
+Object Oriented Programming is one of the most important paradigms in software engineering. 
+
+We can find it everywhere from IoT systems to video games. 
+
+For me OOP is programming the world the way the world is.
+
+This project sees OOP not confined in a handful of languages like Java or C++ but as a bigger idea.
+
+
+
