@@ -1,5 +1,8 @@
 ---
 title: "OOP in IoT"
+description: "Why objects are the perfect mental model for connected devices, and how polymorphism solves communication chaos."
+date: "2026-04-29"
+categories: [IoT, Theory]
 ---
 
 ## Introduction
